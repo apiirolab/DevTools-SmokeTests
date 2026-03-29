@@ -1,0 +1,7 @@
+extentions:
+  - name: gemini-code-assist
+    enable: true
+  - name: gemini-doc-writer
+    enable: true
+  - name: gemini-legacy-search
+    enable: false

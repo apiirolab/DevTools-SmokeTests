@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-dotnettools.csharp",
+    "ms-dotnettools.csdevkit"
+  ],
+  "unwantedRecommendations": [
+    "deprecated.vs-legacy-formatter"
+  ]
+}

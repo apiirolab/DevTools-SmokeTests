@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "pypi-analyzer": {
+      "command": "uvx",
+      "args": ["mcp-server-pypi-analyzer@1.2.0"]
+    },
+    "local-linter": {
+      "command": "pipx",
+      "args": ["run", "mcp-linter@0.3.1"]
+    }
+  }
+}

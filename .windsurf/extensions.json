@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "windsurf.autocomplete",
+    "windsurf.flow-action",
+    "windsurf.cascade"
+  ],
+  "unwantedRecommendations": [
+    "deprecated.windsurf-v1"
+  ]
+}

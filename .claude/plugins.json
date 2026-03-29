@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    {
+      "name": "web-search",
+      "enable": true
+    },
+    {
+      "name": "code-execution",
+      "enable": false
+    }
+  ]
+}

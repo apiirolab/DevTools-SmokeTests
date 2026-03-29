@@ -1,0 +1,7 @@
+{
+  "extensions": [
+    { "name": "org.jetbrains.kotlin", "enable": true },
+    { "name": "com.intellij.spring", "enable": true },
+    { "name": "com.intellij.legacy-ui", "enable": false }
+  ]
+}

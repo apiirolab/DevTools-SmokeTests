@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-python.python"
+  ],
+  "unwantedRecommendations": [
+    "deprecated.old-formatter"
+  ],
+  "extensions": [
+    "eamodio.gitlens"
+  ]
+}

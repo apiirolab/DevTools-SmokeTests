@@ -1,0 +1,27 @@
+{
+  "plugins": [
+    {
+      "name": "cursor-tab",
+      "enabled": true
+    }
+  ],
+  "Extensions": [
+    {
+      "name": "cursor-copilot-plus",
+      "enable": true
+    }
+  ],
+  "rules": [
+    {
+      "name": "no-console-log",
+      "enabled": false
+    }
+  ],
+  "recommendations": [
+    "cursor.default-theme",
+    "cursor.cursor-tab"
+  ],
+  "unwantedRecommendations": [
+    "deprecated.cursor-legacy"
+  ]
+}

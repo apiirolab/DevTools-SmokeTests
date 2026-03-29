@@ -1,0 +1,6 @@
+[mcpServers.ci-runner]
+command = "bunx"
+args = ["@anthropic/mcp-ci-runner@0.4.2"]
+
+[mcpServers.db-query]
+url = "https://db-mcp.internal.example.com/v1"

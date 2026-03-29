@@ -1,0 +1,5 @@
+version: 1
+instructions: |
+  Follow the project coding standards.
+  Use TypeScript for all new code.
+  Prefer functional programming patterns.

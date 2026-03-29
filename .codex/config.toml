@@ -1,0 +1,4 @@
+[Plugins]
+codex-sandbox = true
+codex-web-browser = true
+codex-legacy-runner = false
