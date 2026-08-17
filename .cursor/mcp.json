@@ -2,7 +2,7 @@
   "mcpServers": {
     "filesystem": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-filesystem@0.6.0", "/workspace"]
+      "args": ["-y", "@modelcontextprotocol/server-filesystem@2025.1.14", "/workspace"]
     },
     "remote-api": {
       "url": "https://mcp.example.com/sse"
