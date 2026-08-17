@@ -11,7 +11,7 @@ Contains configuration files for IDE, MCP, AI agent, plugin, extension, and skil
 |---|---|
 | Ide          | .cursor, .vscode, .idea, .vs, .windsurf |
 | IdeExtension | .vscode, .idea, .vs, .windsurf, .cursor (extensions.json in each) |
-| AiAgent      | .cursor, .claude, .github, .codex, .gemini |
+| AiAgent      | .cursor, .claude, .github, .codex, .gemini | <!-- nosemgrep: ai.generic.detect-generic-ai-anthprop -->
 | McpServer    | .cursor/mcp.json, .vscode/mcp.json, mcp-tools.toml |
 | AgentSkill   | .cursor, .claude, .github, .codex, .gemini, lib/ai-skills |
 | AgentPlugin  | .cursor (JSON), .claude (JSON), .codex (TOML), .gemini (YAML) |
