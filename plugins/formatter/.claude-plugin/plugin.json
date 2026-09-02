@@ -1,0 +1,8 @@
+{
+  "name": "formatter",
+  "version": "1.0.0",
+  "description": "Formats source files before commit",
+  "author": {
+    "name": "Smoke Fixtures"
+  }
+}

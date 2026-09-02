@@ -1,0 +1,7 @@
+{
+  "enabledPlugins": {
+    "cursor-tab@smoke-marketplace": true,
+    "web-search@smoke-marketplace": true,
+    "code-execution@smoke-marketplace": false
+  }
+}
