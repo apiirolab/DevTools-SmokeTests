@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "format-daemon": {
+      "command": "npx",
+      "args": ["-y", "format-daemon@1.2.0"]
+    }
+  }
+}
